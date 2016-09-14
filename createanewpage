@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		h1{
+			color: white;
+			background-color: #AA90D4;
+		}
+		
+		h2{
+			color: white;
+			background-color: #1AA154;
+		}
+		
+		h3{
+			color: #AB5E1F;
+			background-color: #8EB83B;
+		}
+
+		body{
+			background-color: #C2B6E3
+		}
+	</style>
+</head>
+
+<body>
+	<h1>
+		oooooooo 
+	</h1>
+
+	<h2>
+		awwwwwwwhhh
+	</h2>
+
+	<h3>
+		ooooooooooo
+	</h3>
+
+</body>
+</html>
